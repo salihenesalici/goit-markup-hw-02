@@ -36,13 +36,13 @@ body {
 .address {
     font-style: normal;
 }
-.address-link .list .etiket {
+.address-link .liste .etiketler {
     color: #434455;
     letter-spacing: 0.02em;
     line-height: 1.5;
 }
-.address-link .list .etiket:hover,
-.address-link .list .etiket:focus {
+.address-link .liste .etiketler:hover,
+.address-link .liste .etiketler:focus {
     color: #404bbf;
 }
 .buton {
@@ -88,18 +88,18 @@ body {
     background-color: #ffffff;
 }
 
-.section-ul .list {
+.section-ul .liste {
     background-color: #ffffff;
 }
 
-.section-ul .list .yardimcibaslik {
+.section-ul .liste .yardimcibaslik {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section-ul .list .text {
+.section-ul .liste .text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
